@@ -1,0 +1,7 @@
+numpy
+matplotlib
+random
+copy
+math
+multiprocessing
+functools
